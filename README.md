@@ -19,3 +19,6 @@ VBBinaryLensing package to calculate magnification factor for binary lensing fro
 
 Codes *_stat.py  calculates the statistical properties from microlensing events due to binary free-floating planets.  
 
+BFFs_case.cpp makes a bis ensamble of all possible microlensing events due to each known moon-planet system orbiting the Sun. 
+
+"dist_BFFPs.py" plots the (q, and d) distributions of the known moon-planet systems.  
